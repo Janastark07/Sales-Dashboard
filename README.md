@@ -31,7 +31,8 @@ A sales dashboard in Excel tracks key metrics like order volume, quantity sold, 
 - Testing & Deployment.
   
 ## Dashboard
-![excel dashboard SS](https://github.com/user-attachments/assets/138d54d9-38c1-44b1-8771-76f703c21b96)
+![excel dashboard SS](https://github.com/user-attachments/assets/4ae7f027-0d39-4e7f-bc57-d9d7a6d38fcb)
+
 
 ## Project Insight
 - Sales trends show peak and slow periods, helping to plan better.  
