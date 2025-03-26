@@ -4,8 +4,8 @@ A sales dashboard in Excel tracks key metrics like order volume, quantity sold, 
 
 ## Datasets
 - <a href="https://github.com/Janastark07/Sales-Dashboard/blob/main/customers.csv">Dataset</a>
-- <a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/orders.csv">Dataset </a>
-- <a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/products.csv">Dataset </a>
+- <a href="https://github.com/Janastark07/Sales-Dashboard/blob/main/orders.csv">Dataset </a>
+- <a href="https://github.com/Janastark07/Sales-Dashboard/blob/main/products.csv">Dataset </a>
 
 ## KPI'S
 - Total Revenue-Identify the overall revenue.
@@ -20,7 +20,7 @@ A sales dashboard in Excel tracks key metrics like order volume, quantity sold, 
 - Product Popularity by Occasion-Identify which products are most popular during specific occasions.
 
 ## Dashboard Interaction
-<a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/excel%20dashboard%20SS.jpeg">View Dashboard</a>
+<a href="https://github.com/Janastark07/Sales-Dashboard/blob/main/excel%20dashboard%20SS.jpeg">View Dashboard</a>
 
 ## Process
 - Data Collection & Cleaning.
