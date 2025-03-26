@@ -3,7 +3,7 @@
 A sales dashboard in Excel tracks key metrics like order volume, quantity sold, total sales, and profit. It uses charts and tables to visualize trends, helping businesses monitor performance and optimize profitability.  
 
 ## Datasets
-- <a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/customers.csv">Dataset</a>
+- <a href="https://github.com/Janastark07/Sales-Dashboard/blob/main/customers.csv">Dataset</a>
 - <a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/orders.csv">Dataset </a>
 - <a href="https://github.com/Janastark07/Excel-Dashboard/blob/main/products.csv">Dataset </a>
 
